@@ -139,7 +139,7 @@ export default function App() {
 
                         <div className={"m-auto card"}>
                             <h2>Work</h2>
-                            <p>I currently work as a Software Engineer I at a tech company specialising in Travel Tech.
+                            <p>I currently work as a Software Engineer II at a tech company specialising in Travel Tech.
                                 I work in C++ as a Backend Engineer, working on bug fixes and proactive maintenance as well
                                 as assisting in incident investigations and recovery.
                                 I also work a lot on our internal tooling, working with Python and Angular to create
