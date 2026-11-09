@@ -1,4 +1,4 @@
-FROM node:23 AS build
+FROM node:26 AS build
 WORKDIR /app
 COPY package*.json ./
 RUN npm install
